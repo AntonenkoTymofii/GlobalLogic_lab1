@@ -1,1 +1,1 @@
-# GlobalLogic_lab1_task1
+# GlobalLogic_lab1
